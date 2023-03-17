@@ -1,0 +1,52 @@
+p{
+    font-size: 18px;
+    padding: 10px 0px;
+    margin: 0;
+}
+.container{
+    padding: 100px 200px;
+}
+a{
+    text-decoration: none;
+    color: black;
+}
+.fr{
+    border-bottom: 1px solid;
+    display: flex;
+}
+.fr img{
+    width: 200px;
+    
+}
+.fr-l {
+    width: 60%;
+}
+.fr-r{
+    width: 40%;
+    text-align: right;
+}
+
+.sr p{
+    padding-bottom: 20px;
+}
+.tr{
+    border-top: 1px solid;
+    display: flex;
+}
+.tr-l{
+    width: 60%;
+    background-color: antiquewhite;
+}
+.tr-r{
+    width: 40%;
+    background-color: aquamarine;
+}
+table {
+    width: 100%;
+  }
+th, td {
+    border-bottom: 1px solid #ddd;
+  }
+.t-right{
+    text-align: right;
+  }
